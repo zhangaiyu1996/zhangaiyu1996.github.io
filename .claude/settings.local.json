@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"E:/IdeaProjects/personal/zhangaiyu1996.github.io\" && bundle exec jekyll build 2>&1)",
+      "WebSearch",
+      "Bash(cd \"E:\\\\IdeaProjects\\\\personal\\\\zhangaiyu1996.github.io\" && bundle exec jekyll build 2>&1)",
+      "Bash(cd:*)",
+      "Bash(cd \"E:\\\\IdeaProjects\\\\personal\\\\zhangaiyu1996.github.io\" && bundle install 2>&1)"
+    ]
+  }
+}
